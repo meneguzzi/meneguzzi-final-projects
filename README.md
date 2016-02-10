@@ -1,4 +1,10 @@
-# Final Year Project Ideas
+# Final Year Project Instructions
+
+## Checklist for the projects
+
+You can find a [Checklist for Final Year Projects](TC-checklist.md), which includes things I expect you to check before handing in the written from.
+
+## Ideas for new projects
 Ideas for final year projects that I'd be keen to advise
 
 - Implement a new AI system for the [Battle for Wesnoth](http://www.wesnoth.org) game, they seem to have a [tutorial for customising the AI](http://wiki.wesnoth.org/Customizing_AI_in_Wesnoth_1.8) (hopefully better than the one from a few years ago).
