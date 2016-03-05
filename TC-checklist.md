@@ -20,7 +20,7 @@ The text you deliver as a proposal at the beginning of the semester must clearly
 - [ ] Literature Review: the literature review is meant to convey your knowledge of the subject matter of the proposal, so check for
 	- [ ] Does it provide basic definitions of the area?
 	- [ ] Terminology dropping from the sky <br/> new technical terms must be explained before they are used, avoid talk about a deteronic frombotzer if you have not said what this is
-	- [ ] Consistency of terminology  <br/> do not you different terms to refer to the same technical entity, once you define something as X always refer to it as X
+	- [ ] Consistency of terminology  <br/> do not use different terms to refer to the same technical entity, once you define something as X always refer to it as X
 	- [ ] Are the references up to date <br/> i.e. do you cite work that was published in the last 5-10 years
 - [ ] Objectives: this is the objective of your design, it will generally focus on studying something to plan for its implementation
 	- [ ] General objective <br/> i.e. a brief statement of what it is you want to accomplish
@@ -57,7 +57,7 @@ The resulting text must include almost all of the following items:
 	- [ ] Balanced chapters/sections <br/> the review chapter can be divided into multiple chapters, make sure subjects are well balanced in the chapters
 	- [ ] Basic definitions <br/> Does it provide basic definitions of the area?
 	- [ ] Terminology dropping from the sky <br/> new technical terms must be explained before they are used, avoid talk about a deteronic frombotzer if you have not said what this is
-	- [ ] Consistency of terminology  <br/> do not you different terms to refer to the same technical entity, once you define something as X always refer to it as X
+	- [ ] Consistency of terminology  <br/> do not use different terms to refer to the same technical entity, once you define something as X always refer to it as X
 	- [ ] Are the references up to date <br/> i.e. do you cite work that was published in the last 5-10 years? It's Ok to cite older work, but if you only do this, everyone will question the novelty of your topic
 - [ ] Objectives: now you should know your stuff, so you must be clear about what is it that you will deliver at the end of the next semester
 	- [ ] Overall objective <br/> i.e. a brief statement of what it is you want to **deliver**
@@ -85,7 +85,7 @@ The text you deliver at the end of the final project II must show that you are a
 	- [ ] Balanced chapters/sections <br/> the review chapter can be divided into multiple chapters, make sure subjects are well balanced in the chapters
 	- [ ] Basic definitions <br/> Does it provide basic definitions of the area?
 	- [ ] Terminology dropping from the sky <br/> new technical terms must be explained before they are used, avoid talk about a deteronic frombotzer if you have not said what this is
-	- [ ] Consistency of terminology  <br/> do not you different terms to refer to the same technical entity, once you define something as X always refer to it as X
+	- [ ] Consistency of terminology  <br/> do not use different terms to refer to the same technical entity, once you define something as X always refer to it as X
 - [ ] Implementation/Development: here you should describe the details of your contribution so that others can replicate it. Check for
 	- [ ] Replicability: is there enough detail that one of your colleagues can replicate your work **without looking at your code**?
 	- [ ] Internal consistency: is the terminology and technical concepts used here consistent with what you defined in the literature review?
