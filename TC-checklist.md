@@ -1,6 +1,7 @@
 # Checklist for final year projects
 
-The following checklist applies to both Computer Science (Ciência da Computação) and Information Systems (Sistemas de Informação). Do not forget to read my [tips on writing good science](http://www.meneguzzi.eu/felipe/writing.shtml), and double check the [rules for writing the final projects](http://www.inf.pucrs.br/~coordtc/NormasTC1.htm).
+The following checklist applies to both Computer Science (Ciência da Computação) and Information Systems (Sistemas de Informação). Do not forget to read my [tips on writing good science](http://www.meneguzzi.eu/felipe/writing.shtml), and double check the [rules for writing the final projects](http://www.inf.pucrs.br/~coordtc/NormasTC1.htm). 
+Finally, I want all academic documents written in LaTeX, so, please use this handy [template for final year projects](https://bitbucket.org/mflash/facin-tcc).
 
 ## Final project proposal
 
