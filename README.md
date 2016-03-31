@@ -26,11 +26,14 @@ Ideas for final year projects that I'd be keen to advise
 ## Current and past projects
 
 - [ ] Implementation of mini BDI interpreter in LUA
+- [ ] Implementation of Graphplan (and/or another planner) in Python
+- [ ] Implementation of a MultiAgent Planner using a Graphplan base code
 - [ ] Implementation of [HTN-based planning](http://dl.acm.org/citation.cfm?doid=1558109.1558167) into AgentSpeak
+- [x] Implementation of mini BDI interpreter in Python
 - [x] Application of Reinforcement Learning to a [bomberman implementation](http://bombermaaan.sourceforge.net)
 - [x] Implementation of [artifact-based](http://jacamo.sourceforge.net) [components for robot control](https://github.com/lsa-pucrs/jason-ros)
 - [x] Implementation of a search-based planner
-- [x] Implementation of otimization techniques to the [JavaGP](http://emplan.sf.net) version of Graphplan 
+- [x] Implementation of optimization techniques to the [JavaGP](http://emplan.sf.net) version of Graphplan 
 
 
 ## To do
