@@ -6,7 +6,7 @@ Finally, besides the specific points I make in this checklist, be mindful of the
 
 - [ ] Figures and Tables must always have a numbered caption and be referenced in the text. A Figure may be worth a thousand words, but it must be described in a couple of dozen to make sense in the text. 
 - [ ] Level of detail: when talking about multiple subjects in a section, be sure to use a consistent level of detail. It reads very poorly if you describe a certain technique in a three-sentence paragraph while put the code in C for another technique in the same section.
-- [ ] Arguments and citations: any objective statement (which ought to be most of your text) you write in your text must be backed either by your own work (self-contained) or by a citation to somebody else's peer-reviewed work. Be very careful about statements of the type 'Algorithm X and Y are the most widely used for frombotzing deterons'
+- [ ] Arguments and citations: any objective statement (which ought to be most of your text) you write in your text must be backed either by your own work (self-contained) or by a citation to somebody else's peer-reviewed work. Be very careful about statements of the type '*Algorithm X and Y are the most widely used for frombotzing deterons*'
 
 
 
