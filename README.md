@@ -23,13 +23,24 @@ Ideas for final year projects that I'd be keen to advise
 - *Integrating Jason with a Visualisation Tool:* Assuming [DIVAs](http://mavs.utdallas.edu/projects/divas) is open in some way (it does not look like it at this point), integrate the Jason interpreter in it to do norm based behaviour simulation.
 - Integrate LEGO Mindstorms software to Jason (this should be relatively easy)
 
-## Current and past projects
+## Projects I'd like to do now
 
 - [ ] Implementation of mini BDI interpreter in LUA
 - [ ] Implementation of Graphplan (and/or another planner) in Python
 - [ ] Implementation of a MultiAgent Planner using a Graphplan base code
 - [ ] Implementation of [HTN-based planning](http://dl.acm.org/citation.cfm?doid=1558109.1558167) into AgentSpeak
+- [ ] Implementation of the [CANPLAN semantics](http://dx.doi.org/10.1007/s10458-010-9130-9) using an AgentSpeak-like syntax
+
+## Current projects
+
 - [x] Implementation of mini BDI interpreter in Python
+- [x] Implementation of [Adversarial HTN planning for RTS games](http://ijcai.org/Proceedings/15/Papers/236.pdf)
+- [x] Implementation of [Montecarlo based game search for Settlers of Catan](http://ticc.uvt.nl/icga/acg12/proceedings/Contribution100.pdf)
+- [x] Implementation of a bot for [Spelunkbots](http://spelunkbots.com)
+
+## Past projects
+
+
 - [x] Application of Reinforcement Learning to a [bomberman implementation](http://bombermaaan.sourceforge.net)
 - [x] Implementation of [artifact-based](http://jacamo.sourceforge.net) [components for robot control](https://github.com/lsa-pucrs/jason-ros)
 - [x] Implementation of a search-based planner
