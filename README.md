@@ -25,7 +25,6 @@ Ideas for final year projects that I'd be keen to advise
 
 ## Projects I'd like to do now
 
-- [ ] Implementation of mini BDI interpreter in LUA
 - [ ] Implementation of Graphplan (and/or another planner) in Python
 - [ ] Implementation of a MultiAgent Planner using a Graphplan base code
 - [ ] Implementation of [HTN-based planning](http://dl.acm.org/citation.cfm?doid=1558109.1558167) into AgentSpeak
@@ -33,7 +32,7 @@ Ideas for final year projects that I'd be keen to advise
 
 ## Current projects
 
-- [x] Implementation of mini BDI interpreter in Python
+- [x] Implementation of mini [BDI interpreter in Python](https://github.com/lsa-pucrs/AgentSpeakPy)
 - [x] Implementation of [Adversarial HTN planning for RTS games](http://ijcai.org/Proceedings/15/Papers/236.pdf)
 - [x] Implementation of [Montecarlo based game search for Settlers of Catan](http://ticc.uvt.nl/icga/acg12/proceedings/Contribution100.pdf)
 - [x] Implementation of a bot for [Spelunkbots](http://spelunkbots.com)
@@ -41,6 +40,7 @@ Ideas for final year projects that I'd be keen to advise
 ## Past projects
 
 
+- [x] Implementation of mini [BDI interpreter in LUA](https://github.com/elite5472/turtleai)
 - [x] Application of Reinforcement Learning to a [bomberman implementation](http://bombermaaan.sourceforge.net)
 - [x] Implementation of [artifact-based](http://jacamo.sourceforge.net) [components for robot control](https://github.com/lsa-pucrs/jason-ros)
 - [x] Implementation of a search-based planner
