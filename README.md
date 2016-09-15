@@ -9,8 +9,9 @@ Ideas for final year projects that I'd be keen to advise
 
 - Implement a new AI system for the [Battle for Wesnoth](http://www.wesnoth.org) game, they seem to have a [tutorial for customising the AI](http://wiki.wesnoth.org/Customizing_AI_in_Wesnoth_1.8) (hopefully better than the one from a few years ago).
    * Using reinforcement learning
-   * Connecting it to an AgentSpeak(L) interpreter like [Jason](http://jason.sf.net)
+   * Connecting it to an AgentSpeak(L) interpreter
    * Using some kind of automated planner
+- Implement a level generator for [Super Mario](http://mario-builder.en.uptodown.com/windows) type games backed by a planning system (to design achievable levels) in a similar way to generating narratives automatically
 - Implement an HTN planner (from scractch, in Java or Python) that accepts these formalisms:
    * [JSHOP2](https://sourceforge.net/projects/shop/files/JSHOP2/)
    * [SHOP2](https://www.cs.umd.edu/projects/shop/)
@@ -18,10 +19,9 @@ Ideas for final year projects that I'd be keen to advise
 - Implement an [HGN planner](http://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/view/6839)
 - Implement an [AgentSpeak(L)](http://www.upv.es/sma/teoria/teoria_ag/agentspeakl/agentspeakl-rao.pdf) interpreter in Python
 - Reimplement the core of the [Jason](http://jason.sf.net) interpreter using a micro-kernel architecture that allows network-based debugging
-- *Fancy UI for Jason:* Integrate some fancy UI engine into an agent programming platform, for example, the [Mason framework](http://www.cs.gmu.edu/~eclab/projects/mason/)
 - *Normative Gold Miners:* Implement and evaluate a variation of the gold miners simulator with a parameterisable norm monitor so that certain norms can be specified as well as a customisable norm detection mechanism
-- *Integrating Jason with a Visualisation Tool:* Assuming [DIVAs](http://mavs.utdallas.edu/projects/divas) is open in some way (it does not look like it at this point), integrate the Jason interpreter in it to do norm based behaviour simulation.
-- Integrate LEGO Mindstorms software to Jason (this should be relatively easy)
+- *Integrating Jason with a Visualisation Tool:* Assuming [DIVAs](http://mavs.utdallas.edu/projects/divas) is open in some way (it does not look like it at this point), integrate an agemt interpreter in it to do norm based behaviour simulation.
+- Compare agents implemented using the [Profeta Python](https://github.com/corradosantoro/profeta) BDI engine with traditional approaches
 
 ## Projects I'd like to do now
 
