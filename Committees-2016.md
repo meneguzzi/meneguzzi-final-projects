@@ -6,6 +6,6 @@
 | André Santos | Silvia Moraes  | Michael Mora       |
 | Bruno Paz  | Avelino Zorzo | Bernardo Copstein   | 
 | Gabriel Lima |   |    |
-| Martin More | Marcelo Cohen | ?? | 
+| Martin More | Marcelo Cohen | Rodrigo Barros | 
 | William Martins |   |    |
 
