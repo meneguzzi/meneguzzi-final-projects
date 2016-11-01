@@ -2,6 +2,7 @@
 
 The following checklist applies to both Computer Science (Ciência da Computação) and Information Systems (Sistemas de Informação). Do not forget to read my [tips on writing good science](http://www.meneguzzi.eu/felipe/writing.shtml), and double check the [rules for writing the final projects](http://www.inf.pucrs.br/~coordtc/NormasTC1.htm). 
 Since I want all academic documents written in LaTeX, please use this handy [template for final year projects](https://bitbucket.org/mflash/facin-tcc). 
+If you don't know anything about LaTeX, I suggest you check out this [Quick tutorial on LaTeX](https://github.com/VoLuong/Begin-Latex-in-minutes) available on Github.
 Finally, besides the specific points I make in this checklist, be mindful of the following quality items for anything scientific you write:
 
 - [ ] Figures and Tables must always have a numbered caption and be referenced in the text. A Figure may be worth a thousand words, but it must be described in a couple of dozen to make sense in the text. 
