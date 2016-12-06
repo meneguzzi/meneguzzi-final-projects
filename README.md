@@ -9,7 +9,7 @@ Ideas for final year projects that I'd be keen to advise
 
 - Implement a new AI system for the [Battle for Wesnoth](http://www.wesnoth.org) game, they seem to have a [tutorial for customising the AI](https://wiki.wesnoth.org/Creating_Custom_AIs) (hopefully better than the one from a few years ago).
    * Using reinforcement learning
-   * Connecting it to an AgentSpeak(L) interpreter
+   * Connecting it to an [AgentSpeak(L)](https://github.com/lsa-pucrs/AgentSpeakPy) interpreter
    * Using some kind of automated planner
 - Implement a level generator for [Super Mario](http://mario-builder.en.uptodown.com/windows) type games backed by a planning system (to design achievable levels) in a similar way to generating narratives automatically
 - Implement an HTN planner (from scractch, in Java or Python) that accepts these formalisms:
@@ -32,14 +32,14 @@ Ideas for final year projects that I'd be keen to advise
 
 ## Current projects
 
+- 
+
+## [Past projects](Projects.md)
+
 - [x] Implementation of mini [BDI interpreter in Python](https://github.com/lsa-pucrs/AgentSpeakPy)
 - [x] Implementation of [Adversarial HTN planning for RTS games](http://ijcai.org/Proceedings/15/Papers/236.pdf)
 - [x] Implementation of [Montecarlo based game search for Settlers of Catan](http://ticc.uvt.nl/icga/acg12/proceedings/Contribution100.pdf)
 - [x] Implementation of a bot for [Spelunkbots](http://spelunkbots.com)
-
-## Past projects
-
-
 - [x] Implementation of mini [BDI interpreter in LUA](https://github.com/elite5472/turtleai)
 - [x] Application of Reinforcement Learning to a [bomberman implementation](http://bombermaaan.sourceforge.net)
 - [x] Implementation of [artifact-based](http://jacamo.sourceforge.net) [components for robot control](https://github.com/lsa-pucrs/jason-ros)
