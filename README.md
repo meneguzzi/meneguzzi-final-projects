@@ -3,6 +3,7 @@
 ## Checklist for the projects
 
 You can find a [Checklist for Final Year Projects](TC-checklist.md), which includes things I expect you to check before handing in the written from.
+If you are working with me, you will need to write in [LaTeX](http://www.latex-project.org), and [here's a good place to start](https://github.com/VoLuong/Begin-Latex-in-minutes).
 
 ## Ideas for new projects
 Ideas for final year projects that I'd be keen to advise
