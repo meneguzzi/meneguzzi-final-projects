@@ -28,7 +28,7 @@ Ideas for final year projects that I'd be keen to advise
 ## Projects I'd like to do now
 
 - [ ] Implementation of Graphplan (and/or another planner) in Python
-- [ ] Implementation of a MultiAgent Planner using a Graphplan base code
+- [ ] Implementation of a MultiAgent Planner using a [Graphplan](https://github.com/pucrs-automated-planning/javagp) base code
 - [ ] Implementation of [HTN-based planning](http://dl.acm.org/citation.cfm?doid=1558109.1558167) into AgentSpeak
 - [ ] Implementation of the [CANPLAN semantics](http://dx.doi.org/10.1007/s10458-010-9130-9) using an AgentSpeak-like syntax
 - [ ] Train reinforcement-learning based agents to play games in environment labs such as:
