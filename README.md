@@ -21,9 +21,10 @@ Ideas for final year projects that I'd be keen to advise
 - Implement an [AgentSpeak(L)](http://www.upv.es/sma/teoria/teoria_ag/agentspeakl/agentspeakl-rao.pdf) interpreter in Python
 - Reimplement the core of the [Jason](http://jason.sf.net) interpreter using a micro-kernel architecture that allows network-based debugging
 - *Normative Gold Miners:* Implement and evaluate a variation of the gold miners simulator with a parameterisable norm monitor so that certain norms can be specified as well as a customisable norm detection mechanism
-- *Integrating Jason with a Visualisation Tool:* Assuming [DIVAs](http://mavs.utdallas.edu/projects/divas) is open in some way (it does not look like it at this point), integrate an agemt interpreter in it to do norm based behaviour simulation.
 - Compare agents implemented using the [Profeta Python](https://github.com/corradosantoro/profeta) BDI engine with traditional approaches
 - Competitively try to play [VizDoom](http://vizdoom.cs.put.edu.pl/tutorial)
+
+<!-- - *Integrating Jason with a Visualisation Tool:* Assuming [DIVAs](http://mavs.utdallas.edu/projects/divas) is open in some way (it does not look like it at this point), integrate an agent interpreter in it to do norm based behaviour simulation. -->
 
 ## Projects I'd like to do now
 
