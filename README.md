@@ -18,8 +18,7 @@ Ideas for final year projects that I'd be keen to advise
    * [SHOP2](https://www.cs.umd.edu/projects/shop/)
    * [PDDL Tasks](http://ipc.informatik.uni-freiburg.de/PddlExtension) - this is optional but pretty cool
 - Implement an [HGN planner](http://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/view/6839)
-- Implement an [AgentSpeak(L)](http://www.upv.es/sma/teoria/teoria_ag/agentspeakl/agentspeakl-rao.pdf) interpreter in Python
-- Reimplement the core of the [Jason](http://jason.sf.net) interpreter using a micro-kernel architecture that allows network-based debugging
+<!-- - Reimplement the core of the [Jason](http://jason.sf.net) interpreter using a micro-kernel architecture that allows network-based debugging-->
 - *Normative Gold Miners:* Implement and evaluate a variation of the gold miners simulator with a parameterisable norm monitor so that certain norms can be specified as well as a customisable norm detection mechanism
 - Compare agents implemented using the [Profeta Python](https://github.com/corradosantoro/profeta) BDI engine with traditional approaches
 - Competitively try to play [VizDoom](http://vizdoom.cs.put.edu.pl/tutorial)
@@ -28,7 +27,8 @@ Ideas for final year projects that I'd be keen to advise
 
 ## Projects I'd like to do now
 
-- [ ] Implementation of Graphplan (and/or another planner) in Python
+- [ ] Implementation of a heuristic planner for [incomplete PDDL domains](https://www.sciencedirect.com/science/article/pii/S0004370216301539) in Python
+- [ ] Implementation of a [fragment of the PRS interpreter](http://eprints.nottingham.ac.uk/52959/) using Python
 - [ ] Implementation of a MultiAgent Planner using a [Graphplan](https://github.com/pucrs-automated-planning/javagp) base code
 - [ ] Implementation of [HTN-based planning](http://dl.acm.org/citation.cfm?doid=1558109.1558167) into AgentSpeak
 - [ ] Implementation of the [CANPLAN semantics](http://dx.doi.org/10.1007/s10458-010-9130-9) using an AgentSpeak-like syntax
@@ -42,6 +42,7 @@ Ideas for final year projects that I'd be keen to advise
 
 ## [Past projects](Projects.md)
 
+- [x] Implementation an [AgentSpeak(L)](http://www.upv.es/sma/teoria/teoria_ag/agentspeakl/agentspeakl-rao.pdf) interpreter in Python
 - [x] Implementation of mini [BDI interpreter in Python](https://github.com/lsa-pucrs/AgentSpeakPy)
 - [x] Implementation of [Adversarial HTN planning for RTS games](http://ijcai.org/Proceedings/15/Papers/236.pdf)
 - [x] Implementation of [Montecarlo based game search for Settlers of Catan](http://ticc.uvt.nl/icga/acg12/proceedings/Contribution100.pdf)
