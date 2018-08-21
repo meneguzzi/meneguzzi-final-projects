@@ -38,7 +38,8 @@ Ideas for final year projects that I'd be keen to advise
 
 ## Current projects
 
-- 
+- Implementation of a text summarization technique using deep recurrent neural networks and [sentence to vector embeddings](https://github.com/epfml/sent2vec)
+- Implementation of a [planning-driven game playing agent](http://www.dtic.upf.edu/%7Ehgeffner/nir-ijcai-2015.pdf) that interprets the state by learning a neural network-based transition function
 
 ## [Past projects](Projects.md)
 
