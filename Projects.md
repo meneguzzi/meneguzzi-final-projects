@@ -16,8 +16,8 @@
 
 ## 2016
 
-- [André Luis Leonhardt do Santos](posters/AndreLeonhardt_poster.pdf)
-- [Gabriel Rubin Bruno Paz](posters/GabrielBruno_poster.pdf)
+- [André Luis Leonhardt dos Santos](posters/AndreLeonhardt_poster.pdf)
+- [Gabriel Rubin e Bruno Paz](posters/GabrielBruno_poster.pdf)
 - [Martin Móre e William Martins](posters/MartinWilliam_poster.pdf)
 - [Matheus Redecker](posters/MatheusRedecker_poster.pdf)
 
