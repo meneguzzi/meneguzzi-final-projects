@@ -7,6 +7,7 @@ If you are working with me, you will need to write in [LaTeX](http://www.latex-p
 
 ## Projects I'd like to do now
 
+- [ ] Implementation of an HGN planner using a formalism like [GoDel](http://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/view/6839), ideally with [Heuristics for HGN Planning](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14979/14175), and [cost-optimality guarantees](https://www.knexusresearch.com/wp-content/uploads/2016/07/shivashankar16hopgdp-preliminary.pdf)  -- **Keywords:** Automated Planning, Hierarchical Planning
 - [ ] Implementation of a machine learning filter for [arXiv](https://arxiv.org/list/cs.AI/recent) [daily feed](https://arxiv.org/list/cs.AI/pastweek?show=94) based on affinity with past publications. This idea was inspired by the [Toronto paper matching system](http://torontopapermatching.org/webapp/profileBrowser/about_us/) used by conferences to select papers -- **Keywords:** Deep Learning, NLP
 - [ ] Train reinforcement-learning based agents to play games in environment labs such as:
 	- [ ] [OpenAI Universe](https://openai.com/blog/universe/)
@@ -30,7 +31,6 @@ Ideas for final year projects that I'd be keen to advise
    * [JSHOP2](https://sourceforge.net/projects/shop/files/JSHOP2/)
    * [SHOP2](https://www.cs.umd.edu/projects/shop/)
    * [PDDL Tasks](http://ipc.informatik.uni-freiburg.de/PddlExtension) - this is optional but pretty cool
-- Implement an [HGN planner](http://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/view/6839)
 - *Normative Gold Miners:* Implement and evaluate a variation of the gold miners simulator with a parameterisable norm monitor so that certain norms can be specified as well as a customisable norm detection mechanism
 - Compare agents implemented using the [Profeta Python](https://github.com/corradosantoro/profeta) BDI engine with traditional approaches
 - Competitively try to play [VizDoom](http://vizdoom.cs.put.edu.pl/tutorial)
