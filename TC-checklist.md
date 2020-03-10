@@ -44,7 +44,7 @@ The text you deliver as a proposal at the beginning of the semester must clearly
 	- [ ] Are all references correct? Remember DBLP, ACM, Google Scholar and other automated databases **do** contain errors
 	- [ ] Are any important references missing?
 	
-## Final project I / Integrating Course IV (Project Design)
+## Final project I / Integrating Course III (Project Design)
 
 The text you deliver at the end of TC1 is a much expanded version of your plan, but here, you must have a clearly defined problem you will solve, and concrete plans of how you will spend the following semester solving it. 
 The resulting text must include almost all of the following items:
@@ -72,7 +72,7 @@ The resulting text must include almost all of the following items:
 	- [ ] Overall objective <br/> i.e. a brief statement of what it is you want to **deliver**
 	- [ ] Specific objectives <br/> i.e. a list of concrete goals as you move towards your overall objective, these are now 'deliverables'
 
-## Final project II / Integrating Course V (Project Implementation)
+## Final project II / Integrating Course IV (Project Implementation)
 
 The text you deliver at the end of the final project II must show that you are able to apply what you learned throughout your undergrad course to solve a concrete problem. You must convince the reader that you are capable of digging deeper into a CS subject and then use this to solve a problem. The resulting text must contain: 
 
