@@ -1,4 +1,4 @@
-# Checklist for final year projects
+# Checklist for final year projects and integrating course
 
 The following checklist applies to both Computer Science (Ciência da Computação) and Information Systems (Sistemas de Informação). Do not forget to read my [tips on writing good science](http://www.meneguzzi.eu/felipe/writing.shtml), and double check the [rules for writing the final projects](https://moodle.pucrs.br/pluginfile.php/2799621/mod_resource/content/4/Normas%20TCC%20ap181.pdf). 
 Since I want all academic documents written in LaTeX, please use this handy [template for final year projects](https://bitbucket.org/mflash/ep-tcc/src/master/). 
@@ -44,7 +44,7 @@ The text you deliver as a proposal at the beginning of the semester must clearly
 	- [ ] Are all references correct? Remember DBLP, ACM, Google Scholar and other automated databases **do** contain errors
 	- [ ] Are any important references missing?
 	
-## Final project I (Project Design)
+## Final project I / Integrating Course IV (Project Design)
 
 The text you deliver at the end of TC1 is a much expanded version of your plan, but here, you must have a clearly defined problem you will solve, and concrete plans of how you will spend the following semester solving it. 
 The resulting text must include almost all of the following items:
@@ -72,7 +72,7 @@ The resulting text must include almost all of the following items:
 	- [ ] Overall objective <br/> i.e. a brief statement of what it is you want to **deliver**
 	- [ ] Specific objectives <br/> i.e. a list of concrete goals as you move towards your overall objective, these are now 'deliverables'
 
-## Final project II (Project Implementation)
+## Final project II / Integrating Course V (Project Implementation)
 
 The text you deliver at the end of the final project II must show that you are able to apply what you learned throughout your undergrad course to solve a concrete problem. You must convince the reader that you are capable of digging deeper into a CS subject and then use this to solve a problem. The resulting text must contain: 
 
