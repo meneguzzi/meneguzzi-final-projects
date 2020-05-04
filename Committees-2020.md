@@ -5,4 +5,4 @@
 | Kin Gusmão | Duncan Ruiz | Sílvia Moraes |
 | Gabriel Waengertner | Rodrigo Barros  | TBD       |
 | Felipe Angnes | Alexandre Amory  | TBD       |
-<!-- | Marcos Fleck | Edson Moreno  | TBD       | -->
+| Marcos Fleck | Edson Moreno  | TBD       |
