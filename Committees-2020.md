@@ -12,5 +12,5 @@
 
 | Student | Committee 1 | Committee 2 |
 | -------- | ------ | ----- |
-| Débora Pires | Duncan Ruiz? | Alison Panisson? |
-| Willian Pripp | Denis Fernandes?  | Soraia Musse?  |
+| Débora Pires | Duncan Ruiz | Alison Panisson? |
+| Willian Pripp | Denis Fernandes  | Julio Cesar Lima  |
