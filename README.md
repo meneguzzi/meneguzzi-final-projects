@@ -27,17 +27,17 @@ If you are working with me, you will need to write in [LaTeX](http://www.latex-p
 Ideas for final year projects that I'd be keen to advise
 
 - [ ] Implement a new AI system for the [Battle for Wesnoth](http://www.wesnoth.org) game, they seem to have a [tutorial for customising the AI](https://wiki.wesnoth.org/Creating_Custom_AIs) (hopefully better than the one from a few years ago).
-   * Using reinforcement learning
-   * Connecting it to an [AgentSpeak(L)](https://github.com/lsa-pucrs/AgentSpeakPy) interpreter
-   * Using some kind of automated planner
-- [ ] Implement a level generator for [Super Mario](http://mario-builder.en.uptodown.com/windows) type games backed by a planning system (to design achievable levels) in a similar way to generating narratives automatically
-- Implement an HTN planner (from scractch, in Java or Python) that accepts these formalisms:
+   * Using reinforcement learning -- **Keywords:** Machine Learning, Game AI
+   * Connecting it to an [AgentSpeak(L)](https://github.com/lsa-pucrs/AgentSpeakPy) interpreter -- **Keywords:** Agents, Game AI
+   * Using some kind of automated planner -- **Keywords:** Automated Planning, Game AI
+- [ ] Implement a level generator for [Super Mario](http://mario-builder.en.uptodown.com/windows) type games backed by a planning system (to design achievable levels) in a similar way to generating narratives automatically -- **Keywords:** Automated Planning, Game AI
+- Implement an HTN planner (from scractch, in Java or Python) that accepts these formalisms: -- **Keywords:** Automated Planning
    * [JSHOP2](https://sourceforge.net/projects/shop/files/JSHOP2/)
    * [SHOP2](https://www.cs.umd.edu/projects/shop/)
    * [PDDL Tasks](http://ipc.informatik.uni-freiburg.de/PddlExtension) - this is optional but pretty cool
 <!-- - *Normative Gold Miners:* Implement and evaluate a variation of the gold miners simulator with a parameterisable norm monitor so that certain norms can be specified as well as a customisable norm detection mechanism 
 - Compare agents implemented using the [Profeta Python](https://github.com/corradosantoro/profeta) BDI engine with traditional approaches -->
-- [ ] Competitively try to play [VizDoom](http://vizdoom.cs.put.edu.pl/tutorial)
+- [ ] Competitively try to play [VizDoom](http://vizdoom.cs.put.edu.pl/tutorial) -- **Keywords:** Machine Learning, Game AI
 
 <!-- - Reimplement the core of the [Jason](http://jason.sf.net) interpreter using a micro-kernel architecture that allows network-based debugging-->
 <!-- - *Integrating Jason with a Visualisation Tool:* Assuming [DIVAs](http://mavs.utdallas.edu/projects/divas) is open in some way (it does not look like it at this point), integrate an agent interpreter in it to do norm based behaviour simulation. -->
