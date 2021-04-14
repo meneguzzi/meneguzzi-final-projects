@@ -26,7 +26,7 @@ If you are working with me, you will need to write in [LaTeX](http://www.latex-p
 ## Other Ideas for new projects
 Ideas for final year projects that I'd be keen to advise
 
-- [ ] Implement a new AI system for the [Battle for Wesnoth](http://www.wesnoth.org) game, they seem to have a [tutorial for customising the AI](https://wiki.wesnoth.org/Creating_Custom_AIs) (hopefully better than the one from a few years ago).
+- [ ] Implement a new [AI system](https://wiki.wesnoth.org/Wesnoth_AI) for the [Battle for Wesnoth](http://www.wesnoth.org) game, they seem to have a [tutorial for customising the AI](https://wiki.wesnoth.org/Creating_Custom_AIs) (hopefully better than the one from a few years ago).
    * Using reinforcement learning -- **Keywords:** Machine Learning, Game AI
    * Connecting it to an [AgentSpeak(L)](https://github.com/lsa-pucrs/AgentSpeakPy) interpreter -- **Keywords:** Agents, Game AI
    * Using some kind of automated planner -- **Keywords:** Automated Planning, Game AI
