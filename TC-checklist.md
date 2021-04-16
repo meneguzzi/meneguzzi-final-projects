@@ -77,7 +77,7 @@ The resulting text must include almost all of the following items:
 The text you deliver at the end of the final project II must show that you are able to apply what you learned throughout your undergrad course to solve a concrete problem. You must convince the reader that you are capable of digging deeper into a CS subject and then use this to solve a problem. The resulting text must contain: 
 
 - [ ] Abstract: the abstract must answer the following questions
-	- [ ] What is the problem your project aims to address?
+	- [ ] What is the problem your contribution addresses?
 	- [ ] Why is this problem interesting?
 	- [ ] How do you aim to solve the problem?
 	- [ ] What follows from your solution?
