@@ -79,7 +79,7 @@ The text you deliver at the end of the final project II must show that you are a
 - [ ] Abstract: the abstract must answer the following questions
 	- [ ] What is the problem your contribution addresses?
 	- [ ] Why is this problem interesting?
-	- [ ] How do you aim to solve the problem?
+	- [ ] How do you solve the problem?
 	- [ ] What follows from your solution?
 - [ ] Table of Contents
 - [ ] Glossary/Abbreviations (if your work is acronym heavy)
