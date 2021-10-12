@@ -3,6 +3,6 @@
 | Student | Committee 1 | Committee 2 |
 | -------- | ------ | ----- |
 | Tiago Gambim | Rafael Garibotti | TBD |
-| Pedro Chem | Soraia Musse  | TBD  |
+| Pedro Chem | Soraia Musse  | Sílvia Moraes  |
 | Daniel Morsch | Márcio Pinho  | TBD |
 | Enrique Dutra | TBD  | TBD |
