@@ -30,8 +30,8 @@ Ideas for final year projects that I'd be keen to advise
    * Using reinforcement learning -- **Keywords:** Machine Learning, Game AI
    * Connecting it to an [AgentSpeak(L)](https://github.com/lsa-pucrs/AgentSpeakPy) interpreter -- **Keywords:** Agents, Game AI
    * Using some kind of automated planner -- **Keywords:** Automated Planning, Game AI
-- [ ] Implement a level generator for [Super Mario](http://mario-builder.en.uptodown.com/windows) type games backed by a planning system (to design achievable levels) in a similar way to generating narratives automatically -- **Keywords:** Automated Planning, Game AI
-- Implement an HTN planner (from scratch, in Java or Python) that accepts these formalisms: -- **Keywords:** Automated Planning
+- [ ] Implement a level generator for [Super Mario](https://github.com/ppaquette/gym-super-mario) type games backed by a planning system (to design achievable levels) in a similar way to generating narratives automatically -- **Keywords:** Automated Planning, Game AI
+- [x] Implement an HTN planner (from scratch, in Java or Python) that accepts these formalisms: -- **Keywords:** Automated Planning
    * [JSHOP2](https://sourceforge.net/projects/shop/files/JSHOP2/)
    * [SHOP2](https://www.cs.umd.edu/projects/shop/)
    * [PDDL Tasks](http://ipc.informatik.uni-freiburg.de/PddlExtension) - this is optional but pretty cool
