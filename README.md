@@ -10,9 +10,10 @@ If you are working with me, you will need to write in [LaTeX](http://www.latex-p
 - [ ] Implementation of a [Natural Deduction](https://en.wikipedia.org/wiki/Natural_deduction) proof generator for [propositional logic](https://en.wikipedia.org/wiki/Propositional_calculus), and hopefully eventually for [First-order Logic](https://en.wikipedia.org/wiki/First-order_logic) to automatically generate exercises for Logic for CS. The likely approach for this one would be to use search (perhaps heuristic) together with some kind of proof assistant to check the generated proofs (e.g. [JAPE](https://github.com/RBornat/jape)) This software could gauge the difficulty of proofs based on the number of hypotheses, complexity of the deduction rules, or length of the proof -- **Keywords:** Logic, Search
 - [ ] Implementation of an HGN planner using a formalism like [GoDel](http://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/view/6839), ideally with [Heuristics for HGN Planning](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14979/14175), and [cost-optimality guarantees](https://www.knexusresearch.com/wp-content/uploads/2016/07/shivashankar16hopgdp-preliminary.pdf)  -- **Keywords:** Automated Planning, Hierarchical Planning
 - [ ] Implementation of an HTN planner in Python capable of planning for both the [SHOP](https://github.com/shop-planner)/[JSHOP2](https://github.com/mas-group/jshop2) formalism and the more recent [HDDL](https://github.com/panda-planner-dev/pandaPIparser) formalism used in the [HTN IPC](http://gki.informatik.uni-freiburg.de/competition/). The implementation can either be a compilation technique, like our [HyperTensioN](https://github.com/Maumagnaguagno/HyperTensioN) planner, or remain completely internal implementation based on our [PDDL parser](https://github.com/pucrs-automated-planning/pddl-parser) -- **Keywords:** Automated Planning, HTN
-- [ ] Deploy various models of machine learning to process neuroimaging data (in cooperation with [InsCer](http://inscer.pucrs.br/)), including:
+  - [ ] Implementation of new HTN heuristics within an existing HTN Planner -- **Keywords:** Automated Planning, Hierarchical Planning
+<!-- - [ ] Deploy various models of machine learning to process neuroimaging data (in cooperation with [InsCer](http://inscer.pucrs.br/)), including:
 	- [ ] fMRI fingerprinting -- **Keywords:** Neuroscience, Deep Learning
-	- [ ] Autogeneration of fMRI paradigms using [Psycopy](https://www.psychopy.org) and automated planning **Keywords:** Neuroscience, Deep Learning
+	- [ ] Autogeneration of fMRI paradigms using [Psycopy](https://www.psychopy.org) and automated planning **Keywords:** Neuroscience, Deep Learning -->
 - [ ] Train reinforcement-learning based agents to play games in environment labs such as:
 	- [ ] [OpenAI Universe](https://openai.com/blog/universe/) **Keywords:** Reinforcement Learning, Deep Learning, Game AI
 	- [ ] [DeepMind Lab](https://github.com/deepmind/lab) **Keywords:** Reinforcement Learning, Deep Learning, Game AI
@@ -35,8 +36,6 @@ Ideas for final year projects that I'd be keen to advise
    * [JSHOP2](https://sourceforge.net/projects/shop/files/JSHOP2/)
    * [SHOP2](https://www.cs.umd.edu/projects/shop/)
    * [PDDL Tasks](http://ipc.informatik.uni-freiburg.de/PddlExtension) - this is optional but pretty cool
-<!-- - *Normative Gold Miners:* Implement and evaluate a variation of the gold miners simulator with a parameterisable norm monitor so that certain norms can be specified as well as a customisable norm detection mechanism 
-- Compare agents implemented using the [Profeta Python](https://github.com/corradosantoro/profeta) BDI engine with traditional approaches -->
 - [ ] Competitively try to play [VizDoom](http://vizdoom.cs.put.edu.pl/tutorial) -- **Keywords:** Machine Learning, Game AI
 
 <!-- - Reimplement the core of the [Jason](http://jason.sf.net) interpreter using a micro-kernel architecture that allows network-based debugging-->
@@ -45,7 +44,6 @@ Ideas for final year projects that I'd be keen to advise
 ## Current projects
 
 - [x] Implementation of a machine learning filter for [arXiv](https://arxiv.org/list/cs.AI/recent) [daily feed](https://arxiv.org/list/cs.AI/pastweek?show=94) based on affinity with past publications. This idea was inspired by the [Toronto paper matching system](http://torontopapermatching.org/webapp/profileBrowser/about_us/) used by conferences to select papers. This is rather similar to the existing [ArXiV-Sanity](http://www.arxiv-sanity.com) -- **Keywords:** Deep Learning, NLP - Débora Pires
-- This could be **you**
 
 ## [Past projects](Projects.md)
 
